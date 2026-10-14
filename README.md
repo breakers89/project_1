@@ -26,17 +26,17 @@ Os módulos utilizados fazem parte da biblioteca padrão do Python, então não 
 ```text
 .
 ├── README.md
-└── teste_for_random.py
+└── test1_for_range_random
 ```
 
-> Salve o código do exemplo no arquivo `teste_for_random.py`. Se você usar outro nome, ajuste o comando de execução abaixo.
+> Salve o código do exemplo no arquivo `test1_for_range_random`. Se você usar outro nome, ajuste o comando de execução abaixo.
 
 ## ▶️ Como executar
 
 No Ubuntu ou em outra distribuição Linux com Python 3 instalado, abra o terminal na pasta do projeto e execute:
 
 ```bash
-python3 teste_for_random.py
+python3 test1_for_range_random
 ```
 
 Para verificar se o Python 3 está instalado:
